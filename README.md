@@ -1,1 +1,1 @@
-# functions-and-objects
+Allan Chandler, cph-ac326@cphbusiness.dk
